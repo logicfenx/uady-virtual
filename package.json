@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/uady-virtual",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a uady-virtual",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/uady-virtual.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://inuchat.net/es/uady-virtual/"
+    },
+    "homepage": "https://inuchat.net/es/uady-virtual/"
+}
